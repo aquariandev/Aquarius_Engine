@@ -1,0 +1,51 @@
+Start testing: Oct 28 21:25 CET
+----------------------------------------------------------
+1/3 Testing: ProjectTests
+1/3 Test: ProjectTests
+Command: "/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/ProjectTests"
+Directory: /home/vodnik/Desktop/Aquarius_Engine/build-glb-clean
+"ProjectTests" start time: Oct 28 21:25 CET
+Output:
+----------------------------------------------------------
+Project path tests passed.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"ProjectTests" end time: Oct 28 21:25 CET
+"ProjectTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/3 Testing: ModelAssetsTests
+2/3 Test: ModelAssetsTests
+Command: "/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/ModelAssetsTests"
+Directory: /home/vodnik/Desktop/Aquarius_Engine/build-glb-clean
+"ModelAssetsTests" start time: Oct 28 21:25 CET
+Output:
+----------------------------------------------------------
+All model asset tests passed.
+<end of output>
+Test time =   0.06 sec
+----------------------------------------------------------
+Test Passed.
+"ModelAssetsTests" end time: Oct 28 21:25 CET
+"ModelAssetsTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/3 Testing: ModelLoaderTests
+3/3 Test: ModelLoaderTests
+Command: "/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/ModelLoaderTests"
+Directory: /home/vodnik/Desktop/Aquarius_Engine/build-glb-clean
+"ModelLoaderTests" start time: Oct 28 21:25 CET
+Output:
+----------------------------------------------------------
+Engine Model loader GLB test passed.
+<end of output>
+Test time =   1.04 sec
+----------------------------------------------------------
+Test Passed.
+"ModelLoaderTests" end time: Oct 28 21:25 CET
+"ModelLoaderTests" time elapsed: 00:00:01
+----------------------------------------------------------
+
+End testing: Oct 28 21:25 CET

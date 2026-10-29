@@ -1,0 +1,194 @@
+[
+{
+  "directory": "/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean",
+  "command": "/usr/bin/cc -I/home/vodnik/Desktop/Aquarius_Engine/external/glad/include -o CMakeFiles/glad.dir/external/glad/src/glad.c.o -c /home/vodnik/Desktop/Aquarius_Engine/external/glad/src/glad.c",
+  "file": "/home/vodnik/Desktop/Aquarius_Engine/external/glad/src/glad.c",
+  "output": "CMakeFiles/glad.dir/external/glad/src/glad.c.o"
+},
+{
+  "directory": "/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean",
+  "command": "/usr/bin/c++ -I/home/vodnik/Desktop/Aquarius_Engine/external/imgui -isystem /usr/include/imgui -isystem /usr/include/stb -std=c++20 -o CMakeFiles/imgui_backends.dir/external/imgui/backends/imgui_impl_glfw.cpp.o -c /home/vodnik/Desktop/Aquarius_Engine/external/imgui/backends/imgui_impl_glfw.cpp",
+  "file": "/home/vodnik/Desktop/Aquarius_Engine/external/imgui/backends/imgui_impl_glfw.cpp",
+  "output": "CMakeFiles/imgui_backends.dir/external/imgui/backends/imgui_impl_glfw.cpp.o"
+},
+{
+  "directory": "/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean",
+  "command": "/usr/bin/c++ -I/home/vodnik/Desktop/Aquarius_Engine/external/imgui -isystem /usr/include/imgui -isystem /usr/include/stb -std=c++20 -o CMakeFiles/imgui_backends.dir/external/imgui/backends/imgui_impl_opengl3.cpp.o -c /home/vodnik/Desktop/Aquarius_Engine/external/imgui/backends/imgui_impl_opengl3.cpp",
+  "file": "/home/vodnik/Desktop/Aquarius_Engine/external/imgui/backends/imgui_impl_opengl3.cpp",
+  "output": "CMakeFiles/imgui_backends.dir/external/imgui/backends/imgui_impl_opengl3.cpp.o"
+},
+{
+  "directory": "/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean",
+  "command": "/usr/bin/c++ -DAQUARIUS_BUNDLED_FONT_PATH=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/font/AlegreyaSans-Regular.ttf\\\" -DAQUARIUS_LIGHT_ICON_DIRECTORY=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/graphics/light_icons\\\" -DAQUARIUS_SPLASH_IMAGE_PATH=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/graphics/splash_screen/splash.png\\\" -DAQUARIUS_TITLE_FONT_PATH=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/font/Cinzel-Regular.ttf\\\" -I/home/vodnik/Desktop/Aquarius_Engine/source/header_files -I/home/vodnik/Desktop/Aquarius_Engine/external/glad/include -I/home/vodnik/Desktop/Aquarius_Engine/external/imgui -isystem /usr/include/stb -isystem /usr/include/imgui -std=c++20 -o CMakeFiles/AquariusEngine.dir/source/cpp_files/Application.cpp.o -c /home/vodnik/Desktop/Aquarius_Engine/source/cpp_files/Application.cpp",
+  "file": "/home/vodnik/Desktop/Aquarius_Engine/source/cpp_files/Application.cpp",
+  "output": "CMakeFiles/AquariusEngine.dir/source/cpp_files/Application.cpp.o"
+},
+{
+  "directory": "/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean",
+  "command": "/usr/bin/c++ -DAQUARIUS_BUNDLED_FONT_PATH=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/font/AlegreyaSans-Regular.ttf\\\" -DAQUARIUS_LIGHT_ICON_DIRECTORY=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/graphics/light_icons\\\" -DAQUARIUS_SPLASH_IMAGE_PATH=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/graphics/splash_screen/splash.png\\\" -DAQUARIUS_TITLE_FONT_PATH=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/font/Cinzel-Regular.ttf\\\" -I/home/vodnik/Desktop/Aquarius_Engine/source/header_files -I/home/vodnik/Desktop/Aquarius_Engine/external/glad/include -I/home/vodnik/Desktop/Aquarius_Engine/external/imgui -isystem /usr/include/stb -isystem /usr/include/imgui -std=c++20 -o CMakeFiles/AquariusEngine.dir/source/cpp_files/AssetBrowser.cpp.o -c /home/vodnik/Desktop/Aquarius_Engine/source/cpp_files/AssetBrowser.cpp",
+  "file": "/home/vodnik/Desktop/Aquarius_Engine/source/cpp_files/AssetBrowser.cpp",
+  "output": "CMakeFiles/AquariusEngine.dir/source/cpp_files/AssetBrowser.cpp.o"
+},
+{
+  "directory": "/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean",
+  "command": "/usr/bin/c++ -DAQUARIUS_BUNDLED_FONT_PATH=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/font/AlegreyaSans-Regular.ttf\\\" -DAQUARIUS_LIGHT_ICON_DIRECTORY=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/graphics/light_icons\\\" -DAQUARIUS_SPLASH_IMAGE_PATH=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/graphics/splash_screen/splash.png\\\" -DAQUARIUS_TITLE_FONT_PATH=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/font/Cinzel-Regular.ttf\\\" -I/home/vodnik/Desktop/Aquarius_Engine/source/header_files -I/home/vodnik/Desktop/Aquarius_Engine/external/glad/include -I/home/vodnik/Desktop/Aquarius_Engine/external/imgui -isystem /usr/include/stb -isystem /usr/include/imgui -std=c++20 -o CMakeFiles/AquariusEngine.dir/source/cpp_files/Camera.cpp.o -c /home/vodnik/Desktop/Aquarius_Engine/source/cpp_files/Camera.cpp",
+  "file": "/home/vodnik/Desktop/Aquarius_Engine/source/cpp_files/Camera.cpp",
+  "output": "CMakeFiles/AquariusEngine.dir/source/cpp_files/Camera.cpp.o"
+},
+{
+  "directory": "/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean",
+  "command": "/usr/bin/c++ -DAQUARIUS_BUNDLED_FONT_PATH=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/font/AlegreyaSans-Regular.ttf\\\" -DAQUARIUS_LIGHT_ICON_DIRECTORY=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/graphics/light_icons\\\" -DAQUARIUS_SPLASH_IMAGE_PATH=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/graphics/splash_screen/splash.png\\\" -DAQUARIUS_TITLE_FONT_PATH=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/font/Cinzel-Regular.ttf\\\" -I/home/vodnik/Desktop/Aquarius_Engine/source/header_files -I/home/vodnik/Desktop/Aquarius_Engine/external/glad/include -I/home/vodnik/Desktop/Aquarius_Engine/external/imgui -isystem /usr/include/stb -isystem /usr/include/imgui -std=c++20 -o CMakeFiles/AquariusEngine.dir/source/cpp_files/EditorScene.cpp.o -c /home/vodnik/Desktop/Aquarius_Engine/source/cpp_files/EditorScene.cpp",
+  "file": "/home/vodnik/Desktop/Aquarius_Engine/source/cpp_files/EditorScene.cpp",
+  "output": "CMakeFiles/AquariusEngine.dir/source/cpp_files/EditorScene.cpp.o"
+},
+{
+  "directory": "/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean",
+  "command": "/usr/bin/c++ -DAQUARIUS_BUNDLED_FONT_PATH=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/font/AlegreyaSans-Regular.ttf\\\" -DAQUARIUS_LIGHT_ICON_DIRECTORY=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/graphics/light_icons\\\" -DAQUARIUS_SPLASH_IMAGE_PATH=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/graphics/splash_screen/splash.png\\\" -DAQUARIUS_TITLE_FONT_PATH=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/font/Cinzel-Regular.ttf\\\" -I/home/vodnik/Desktop/Aquarius_Engine/source/header_files -I/home/vodnik/Desktop/Aquarius_Engine/external/glad/include -I/home/vodnik/Desktop/Aquarius_Engine/external/imgui -isystem /usr/include/stb -isystem /usr/include/imgui -std=c++20 -o CMakeFiles/AquariusEngine.dir/source/cpp_files/FileAssociation.cpp.o -c /home/vodnik/Desktop/Aquarius_Engine/source/cpp_files/FileAssociation.cpp",
+  "file": "/home/vodnik/Desktop/Aquarius_Engine/source/cpp_files/FileAssociation.cpp",
+  "output": "CMakeFiles/AquariusEngine.dir/source/cpp_files/FileAssociation.cpp.o"
+},
+{
+  "directory": "/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean",
+  "command": "/usr/bin/c++ -DAQUARIUS_BUNDLED_FONT_PATH=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/font/AlegreyaSans-Regular.ttf\\\" -DAQUARIUS_LIGHT_ICON_DIRECTORY=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/graphics/light_icons\\\" -DAQUARIUS_SPLASH_IMAGE_PATH=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/graphics/splash_screen/splash.png\\\" -DAQUARIUS_TITLE_FONT_PATH=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/font/Cinzel-Regular.ttf\\\" -I/home/vodnik/Desktop/Aquarius_Engine/source/header_files -I/home/vodnik/Desktop/Aquarius_Engine/external/glad/include -I/home/vodnik/Desktop/Aquarius_Engine/external/imgui -isystem /usr/include/stb -isystem /usr/include/imgui -std=c++20 -o CMakeFiles/AquariusEngine.dir/source/cpp_files/ImGuiFont.cpp.o -c /home/vodnik/Desktop/Aquarius_Engine/source/cpp_files/ImGuiFont.cpp",
+  "file": "/home/vodnik/Desktop/Aquarius_Engine/source/cpp_files/ImGuiFont.cpp",
+  "output": "CMakeFiles/AquariusEngine.dir/source/cpp_files/ImGuiFont.cpp.o"
+},
+{
+  "directory": "/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean",
+  "command": "/usr/bin/c++ -DAQUARIUS_BUNDLED_FONT_PATH=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/font/AlegreyaSans-Regular.ttf\\\" -DAQUARIUS_LIGHT_ICON_DIRECTORY=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/graphics/light_icons\\\" -DAQUARIUS_SPLASH_IMAGE_PATH=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/graphics/splash_screen/splash.png\\\" -DAQUARIUS_TITLE_FONT_PATH=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/font/Cinzel-Regular.ttf\\\" -I/home/vodnik/Desktop/Aquarius_Engine/source/header_files -I/home/vodnik/Desktop/Aquarius_Engine/external/glad/include -I/home/vodnik/Desktop/Aquarius_Engine/external/imgui -isystem /usr/include/stb -isystem /usr/include/imgui -std=c++20 -o CMakeFiles/AquariusEngine.dir/source/cpp_files/Model.cpp.o -c /home/vodnik/Desktop/Aquarius_Engine/source/cpp_files/Model.cpp",
+  "file": "/home/vodnik/Desktop/Aquarius_Engine/source/cpp_files/Model.cpp",
+  "output": "CMakeFiles/AquariusEngine.dir/source/cpp_files/Model.cpp.o"
+},
+{
+  "directory": "/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean",
+  "command": "/usr/bin/c++ -DAQUARIUS_BUNDLED_FONT_PATH=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/font/AlegreyaSans-Regular.ttf\\\" -DAQUARIUS_LIGHT_ICON_DIRECTORY=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/graphics/light_icons\\\" -DAQUARIUS_SPLASH_IMAGE_PATH=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/graphics/splash_screen/splash.png\\\" -DAQUARIUS_TITLE_FONT_PATH=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/font/Cinzel-Regular.ttf\\\" -I/home/vodnik/Desktop/Aquarius_Engine/source/header_files -I/home/vodnik/Desktop/Aquarius_Engine/external/glad/include -I/home/vodnik/Desktop/Aquarius_Engine/external/imgui -isystem /usr/include/stb -isystem /usr/include/imgui -std=c++20 -o CMakeFiles/AquariusEngine.dir/source/cpp_files/ModelAssets.cpp.o -c /home/vodnik/Desktop/Aquarius_Engine/source/cpp_files/ModelAssets.cpp",
+  "file": "/home/vodnik/Desktop/Aquarius_Engine/source/cpp_files/ModelAssets.cpp",
+  "output": "CMakeFiles/AquariusEngine.dir/source/cpp_files/ModelAssets.cpp.o"
+},
+{
+  "directory": "/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean",
+  "command": "/usr/bin/c++ -DAQUARIUS_BUNDLED_FONT_PATH=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/font/AlegreyaSans-Regular.ttf\\\" -DAQUARIUS_LIGHT_ICON_DIRECTORY=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/graphics/light_icons\\\" -DAQUARIUS_SPLASH_IMAGE_PATH=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/graphics/splash_screen/splash.png\\\" -DAQUARIUS_TITLE_FONT_PATH=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/font/Cinzel-Regular.ttf\\\" -I/home/vodnik/Desktop/Aquarius_Engine/source/header_files -I/home/vodnik/Desktop/Aquarius_Engine/external/glad/include -I/home/vodnik/Desktop/Aquarius_Engine/external/imgui -isystem /usr/include/stb -isystem /usr/include/imgui -std=c++20 -o CMakeFiles/AquariusEngine.dir/source/cpp_files/ModelFileDialog.cpp.o -c /home/vodnik/Desktop/Aquarius_Engine/source/cpp_files/ModelFileDialog.cpp",
+  "file": "/home/vodnik/Desktop/Aquarius_Engine/source/cpp_files/ModelFileDialog.cpp",
+  "output": "CMakeFiles/AquariusEngine.dir/source/cpp_files/ModelFileDialog.cpp.o"
+},
+{
+  "directory": "/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean",
+  "command": "/usr/bin/c++ -DAQUARIUS_BUNDLED_FONT_PATH=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/font/AlegreyaSans-Regular.ttf\\\" -DAQUARIUS_LIGHT_ICON_DIRECTORY=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/graphics/light_icons\\\" -DAQUARIUS_SPLASH_IMAGE_PATH=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/graphics/splash_screen/splash.png\\\" -DAQUARIUS_TITLE_FONT_PATH=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/font/Cinzel-Regular.ttf\\\" -I/home/vodnik/Desktop/Aquarius_Engine/source/header_files -I/home/vodnik/Desktop/Aquarius_Engine/external/glad/include -I/home/vodnik/Desktop/Aquarius_Engine/external/imgui -isystem /usr/include/stb -isystem /usr/include/imgui -std=c++20 -o CMakeFiles/AquariusEngine.dir/source/cpp_files/Project.cpp.o -c /home/vodnik/Desktop/Aquarius_Engine/source/cpp_files/Project.cpp",
+  "file": "/home/vodnik/Desktop/Aquarius_Engine/source/cpp_files/Project.cpp",
+  "output": "CMakeFiles/AquariusEngine.dir/source/cpp_files/Project.cpp.o"
+},
+{
+  "directory": "/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean",
+  "command": "/usr/bin/c++ -DAQUARIUS_BUNDLED_FONT_PATH=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/font/AlegreyaSans-Regular.ttf\\\" -DAQUARIUS_LIGHT_ICON_DIRECTORY=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/graphics/light_icons\\\" -DAQUARIUS_SPLASH_IMAGE_PATH=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/graphics/splash_screen/splash.png\\\" -DAQUARIUS_TITLE_FONT_PATH=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/font/Cinzel-Regular.ttf\\\" -I/home/vodnik/Desktop/Aquarius_Engine/source/header_files -I/home/vodnik/Desktop/Aquarius_Engine/external/glad/include -I/home/vodnik/Desktop/Aquarius_Engine/external/imgui -isystem /usr/include/stb -isystem /usr/include/imgui -std=c++20 -o CMakeFiles/AquariusEngine.dir/source/cpp_files/ProjectLauncher.cpp.o -c /home/vodnik/Desktop/Aquarius_Engine/source/cpp_files/ProjectLauncher.cpp",
+  "file": "/home/vodnik/Desktop/Aquarius_Engine/source/cpp_files/ProjectLauncher.cpp",
+  "output": "CMakeFiles/AquariusEngine.dir/source/cpp_files/ProjectLauncher.cpp.o"
+},
+{
+  "directory": "/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean",
+  "command": "/usr/bin/c++ -DAQUARIUS_BUNDLED_FONT_PATH=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/font/AlegreyaSans-Regular.ttf\\\" -DAQUARIUS_LIGHT_ICON_DIRECTORY=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/graphics/light_icons\\\" -DAQUARIUS_SPLASH_IMAGE_PATH=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/graphics/splash_screen/splash.png\\\" -DAQUARIUS_TITLE_FONT_PATH=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/font/Cinzel-Regular.ttf\\\" -I/home/vodnik/Desktop/Aquarius_Engine/source/header_files -I/home/vodnik/Desktop/Aquarius_Engine/external/glad/include -I/home/vodnik/Desktop/Aquarius_Engine/external/imgui -isystem /usr/include/stb -isystem /usr/include/imgui -std=c++20 -o CMakeFiles/AquariusEngine.dir/source/cpp_files/Renderer.cpp.o -c /home/vodnik/Desktop/Aquarius_Engine/source/cpp_files/Renderer.cpp",
+  "file": "/home/vodnik/Desktop/Aquarius_Engine/source/cpp_files/Renderer.cpp",
+  "output": "CMakeFiles/AquariusEngine.dir/source/cpp_files/Renderer.cpp.o"
+},
+{
+  "directory": "/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean",
+  "command": "/usr/bin/c++ -DAQUARIUS_BUNDLED_FONT_PATH=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/font/AlegreyaSans-Regular.ttf\\\" -DAQUARIUS_LIGHT_ICON_DIRECTORY=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/graphics/light_icons\\\" -DAQUARIUS_SPLASH_IMAGE_PATH=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/graphics/splash_screen/splash.png\\\" -DAQUARIUS_TITLE_FONT_PATH=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/font/Cinzel-Regular.ttf\\\" -I/home/vodnik/Desktop/Aquarius_Engine/source/header_files -I/home/vodnik/Desktop/Aquarius_Engine/external/glad/include -I/home/vodnik/Desktop/Aquarius_Engine/external/imgui -isystem /usr/include/stb -isystem /usr/include/imgui -std=c++20 -o CMakeFiles/AquariusEngine.dir/source/cpp_files/SceneRecovery.cpp.o -c /home/vodnik/Desktop/Aquarius_Engine/source/cpp_files/SceneRecovery.cpp",
+  "file": "/home/vodnik/Desktop/Aquarius_Engine/source/cpp_files/SceneRecovery.cpp",
+  "output": "CMakeFiles/AquariusEngine.dir/source/cpp_files/SceneRecovery.cpp.o"
+},
+{
+  "directory": "/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean",
+  "command": "/usr/bin/c++ -DAQUARIUS_BUNDLED_FONT_PATH=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/font/AlegreyaSans-Regular.ttf\\\" -DAQUARIUS_LIGHT_ICON_DIRECTORY=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/graphics/light_icons\\\" -DAQUARIUS_SPLASH_IMAGE_PATH=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/graphics/splash_screen/splash.png\\\" -DAQUARIUS_TITLE_FONT_PATH=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/font/Cinzel-Regular.ttf\\\" -I/home/vodnik/Desktop/Aquarius_Engine/source/header_files -I/home/vodnik/Desktop/Aquarius_Engine/external/glad/include -I/home/vodnik/Desktop/Aquarius_Engine/external/imgui -isystem /usr/include/stb -isystem /usr/include/imgui -std=c++20 -o CMakeFiles/AquariusEngine.dir/source/cpp_files/SplashScreen.cpp.o -c /home/vodnik/Desktop/Aquarius_Engine/source/cpp_files/SplashScreen.cpp",
+  "file": "/home/vodnik/Desktop/Aquarius_Engine/source/cpp_files/SplashScreen.cpp",
+  "output": "CMakeFiles/AquariusEngine.dir/source/cpp_files/SplashScreen.cpp.o"
+},
+{
+  "directory": "/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean",
+  "command": "/usr/bin/c++ -DAQUARIUS_BUNDLED_FONT_PATH=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/font/AlegreyaSans-Regular.ttf\\\" -DAQUARIUS_LIGHT_ICON_DIRECTORY=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/graphics/light_icons\\\" -DAQUARIUS_SPLASH_IMAGE_PATH=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/graphics/splash_screen/splash.png\\\" -DAQUARIUS_TITLE_FONT_PATH=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/font/Cinzel-Regular.ttf\\\" -I/home/vodnik/Desktop/Aquarius_Engine/source/header_files -I/home/vodnik/Desktop/Aquarius_Engine/external/glad/include -I/home/vodnik/Desktop/Aquarius_Engine/external/imgui -isystem /usr/include/stb -isystem /usr/include/imgui -std=c++20 -o CMakeFiles/AquariusEngine.dir/source/cpp_files/WindowMode.cpp.o -c /home/vodnik/Desktop/Aquarius_Engine/source/cpp_files/WindowMode.cpp",
+  "file": "/home/vodnik/Desktop/Aquarius_Engine/source/cpp_files/WindowMode.cpp",
+  "output": "CMakeFiles/AquariusEngine.dir/source/cpp_files/WindowMode.cpp.o"
+},
+{
+  "directory": "/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean",
+  "command": "/usr/bin/c++ -DAQUARIUS_BUNDLED_FONT_PATH=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/font/AlegreyaSans-Regular.ttf\\\" -DAQUARIUS_LIGHT_ICON_DIRECTORY=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/graphics/light_icons\\\" -DAQUARIUS_SPLASH_IMAGE_PATH=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/graphics/splash_screen/splash.png\\\" -DAQUARIUS_TITLE_FONT_PATH=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/font/Cinzel-Regular.ttf\\\" -I/home/vodnik/Desktop/Aquarius_Engine/source/header_files -I/home/vodnik/Desktop/Aquarius_Engine/external/glad/include -I/home/vodnik/Desktop/Aquarius_Engine/external/imgui -isystem /usr/include/stb -isystem /usr/include/imgui -std=c++20 -o CMakeFiles/AquariusEngine.dir/source/cpp_files/main.cpp.o -c /home/vodnik/Desktop/Aquarius_Engine/source/cpp_files/main.cpp",
+  "file": "/home/vodnik/Desktop/Aquarius_Engine/source/cpp_files/main.cpp",
+  "output": "CMakeFiles/AquariusEngine.dir/source/cpp_files/main.cpp.o"
+},
+{
+  "directory": "/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean",
+  "command": "/usr/bin/c++ -I/home/vodnik/Desktop/Aquarius_Engine/source/header_files -std=c++20 -o CMakeFiles/ProjectTests.dir/tests/project_tests.cpp.o -c /home/vodnik/Desktop/Aquarius_Engine/tests/project_tests.cpp",
+  "file": "/home/vodnik/Desktop/Aquarius_Engine/tests/project_tests.cpp",
+  "output": "CMakeFiles/ProjectTests.dir/tests/project_tests.cpp.o"
+},
+{
+  "directory": "/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean",
+  "command": "/usr/bin/c++ -I/home/vodnik/Desktop/Aquarius_Engine/source/header_files -std=c++20 -o CMakeFiles/ProjectTests.dir/source/cpp_files/Project.cpp.o -c /home/vodnik/Desktop/Aquarius_Engine/source/cpp_files/Project.cpp",
+  "file": "/home/vodnik/Desktop/Aquarius_Engine/source/cpp_files/Project.cpp",
+  "output": "CMakeFiles/ProjectTests.dir/source/cpp_files/Project.cpp.o"
+},
+{
+  "directory": "/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean",
+  "command": "/usr/bin/c++ -DAQUARIUS_LIGHT_ICON_SOURCE_DIRECTORY=\\\"/home/vodnik/Desktop/Aquarius_Engine/source/graphics/light_icons\\\" -I/home/vodnik/Desktop/Aquarius_Engine/source/header_files -I/home/vodnik/Desktop/Aquarius_Engine/external/glad/include -std=c++20 -o CMakeFiles/ModelAssetsTests.dir/tests/model_assets_tests.cpp.o -c /home/vodnik/Desktop/Aquarius_Engine/tests/model_assets_tests.cpp",
+  "file": "/home/vodnik/Desktop/Aquarius_Engine/tests/model_assets_tests.cpp",
+  "output": "CMakeFiles/ModelAssetsTests.dir/tests/model_assets_tests.cpp.o"
+},
+{
+  "directory": "/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean",
+  "command": "/usr/bin/c++ -DAQUARIUS_LIGHT_ICON_SOURCE_DIRECTORY=\\\"/home/vodnik/Desktop/Aquarius_Engine/source/graphics/light_icons\\\" -I/home/vodnik/Desktop/Aquarius_Engine/source/header_files -I/home/vodnik/Desktop/Aquarius_Engine/external/glad/include -std=c++20 -o CMakeFiles/ModelAssetsTests.dir/source/cpp_files/EditorScene.cpp.o -c /home/vodnik/Desktop/Aquarius_Engine/source/cpp_files/EditorScene.cpp",
+  "file": "/home/vodnik/Desktop/Aquarius_Engine/source/cpp_files/EditorScene.cpp",
+  "output": "CMakeFiles/ModelAssetsTests.dir/source/cpp_files/EditorScene.cpp.o"
+},
+{
+  "directory": "/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean",
+  "command": "/usr/bin/c++ -DAQUARIUS_LIGHT_ICON_SOURCE_DIRECTORY=\\\"/home/vodnik/Desktop/Aquarius_Engine/source/graphics/light_icons\\\" -I/home/vodnik/Desktop/Aquarius_Engine/source/header_files -I/home/vodnik/Desktop/Aquarius_Engine/external/glad/include -std=c++20 -o CMakeFiles/ModelAssetsTests.dir/source/cpp_files/ModelAssets.cpp.o -c /home/vodnik/Desktop/Aquarius_Engine/source/cpp_files/ModelAssets.cpp",
+  "file": "/home/vodnik/Desktop/Aquarius_Engine/source/cpp_files/ModelAssets.cpp",
+  "output": "CMakeFiles/ModelAssetsTests.dir/source/cpp_files/ModelAssets.cpp.o"
+},
+{
+  "directory": "/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean",
+  "command": "/usr/bin/c++ -DAQUARIUS_LIGHT_ICON_SOURCE_DIRECTORY=\\\"/home/vodnik/Desktop/Aquarius_Engine/source/graphics/light_icons\\\" -I/home/vodnik/Desktop/Aquarius_Engine/source/header_files -I/home/vodnik/Desktop/Aquarius_Engine/external/glad/include -std=c++20 -o CMakeFiles/ModelAssetsTests.dir/source/cpp_files/SceneRecovery.cpp.o -c /home/vodnik/Desktop/Aquarius_Engine/source/cpp_files/SceneRecovery.cpp",
+  "file": "/home/vodnik/Desktop/Aquarius_Engine/source/cpp_files/SceneRecovery.cpp",
+  "output": "CMakeFiles/ModelAssetsTests.dir/source/cpp_files/SceneRecovery.cpp.o"
+},
+{
+  "directory": "/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean",
+  "command": "/usr/bin/c++ -DAQUARIUS_LIGHT_ICON_DIRECTORY=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/graphics/light_icons\\\" -I/home/vodnik/Desktop/Aquarius_Engine/source/header_files -I/usr/include/stb -I/home/vodnik/Desktop/Aquarius_Engine/external/glad/include -std=c++20 -o CMakeFiles/ModelLoaderTests.dir/tests/model_loader_tests.cpp.o -c /home/vodnik/Desktop/Aquarius_Engine/tests/model_loader_tests.cpp",
+  "file": "/home/vodnik/Desktop/Aquarius_Engine/tests/model_loader_tests.cpp",
+  "output": "CMakeFiles/ModelLoaderTests.dir/tests/model_loader_tests.cpp.o"
+},
+{
+  "directory": "/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean",
+  "command": "/usr/bin/c++ -DAQUARIUS_LIGHT_ICON_DIRECTORY=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/graphics/light_icons\\\" -I/home/vodnik/Desktop/Aquarius_Engine/source/header_files -I/usr/include/stb -I/home/vodnik/Desktop/Aquarius_Engine/external/glad/include -std=c++20 -o CMakeFiles/ModelLoaderTests.dir/source/cpp_files/Camera.cpp.o -c /home/vodnik/Desktop/Aquarius_Engine/source/cpp_files/Camera.cpp",
+  "file": "/home/vodnik/Desktop/Aquarius_Engine/source/cpp_files/Camera.cpp",
+  "output": "CMakeFiles/ModelLoaderTests.dir/source/cpp_files/Camera.cpp.o"
+},
+{
+  "directory": "/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean",
+  "command": "/usr/bin/c++ -DAQUARIUS_LIGHT_ICON_DIRECTORY=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/graphics/light_icons\\\" -I/home/vodnik/Desktop/Aquarius_Engine/source/header_files -I/usr/include/stb -I/home/vodnik/Desktop/Aquarius_Engine/external/glad/include -std=c++20 -o CMakeFiles/ModelLoaderTests.dir/source/cpp_files/EditorScene.cpp.o -c /home/vodnik/Desktop/Aquarius_Engine/source/cpp_files/EditorScene.cpp",
+  "file": "/home/vodnik/Desktop/Aquarius_Engine/source/cpp_files/EditorScene.cpp",
+  "output": "CMakeFiles/ModelLoaderTests.dir/source/cpp_files/EditorScene.cpp.o"
+},
+{
+  "directory": "/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean",
+  "command": "/usr/bin/c++ -DAQUARIUS_LIGHT_ICON_DIRECTORY=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/graphics/light_icons\\\" -I/home/vodnik/Desktop/Aquarius_Engine/source/header_files -I/usr/include/stb -I/home/vodnik/Desktop/Aquarius_Engine/external/glad/include -std=c++20 -o CMakeFiles/ModelLoaderTests.dir/source/cpp_files/Model.cpp.o -c /home/vodnik/Desktop/Aquarius_Engine/source/cpp_files/Model.cpp",
+  "file": "/home/vodnik/Desktop/Aquarius_Engine/source/cpp_files/Model.cpp",
+  "output": "CMakeFiles/ModelLoaderTests.dir/source/cpp_files/Model.cpp.o"
+},
+{
+  "directory": "/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean",
+  "command": "/usr/bin/c++ -DAQUARIUS_LIGHT_ICON_DIRECTORY=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/graphics/light_icons\\\" -I/home/vodnik/Desktop/Aquarius_Engine/source/header_files -I/usr/include/stb -I/home/vodnik/Desktop/Aquarius_Engine/external/glad/include -std=c++20 -o CMakeFiles/ModelLoaderTests.dir/source/cpp_files/ModelAssets.cpp.o -c /home/vodnik/Desktop/Aquarius_Engine/source/cpp_files/ModelAssets.cpp",
+  "file": "/home/vodnik/Desktop/Aquarius_Engine/source/cpp_files/ModelAssets.cpp",
+  "output": "CMakeFiles/ModelLoaderTests.dir/source/cpp_files/ModelAssets.cpp.o"
+},
+{
+  "directory": "/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean",
+  "command": "/usr/bin/c++ -DAQUARIUS_LIGHT_ICON_DIRECTORY=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/graphics/light_icons\\\" -I/home/vodnik/Desktop/Aquarius_Engine/source/header_files -I/usr/include/stb -I/home/vodnik/Desktop/Aquarius_Engine/external/glad/include -std=c++20 -o CMakeFiles/ModelLoaderTests.dir/source/cpp_files/Renderer.cpp.o -c /home/vodnik/Desktop/Aquarius_Engine/source/cpp_files/Renderer.cpp",
+  "file": "/home/vodnik/Desktop/Aquarius_Engine/source/cpp_files/Renderer.cpp",
+  "output": "CMakeFiles/ModelLoaderTests.dir/source/cpp_files/Renderer.cpp.o"
+},
+{
+  "directory": "/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean",
+  "command": "/usr/bin/c++ -DAQUARIUS_LIGHT_ICON_DIRECTORY=\\\"/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/graphics/light_icons\\\" -I/home/vodnik/Desktop/Aquarius_Engine/source/header_files -I/usr/include/stb -I/home/vodnik/Desktop/Aquarius_Engine/external/glad/include -std=c++20 -o CMakeFiles/ModelLoaderTests.dir/source/cpp_files/SceneRecovery.cpp.o -c /home/vodnik/Desktop/Aquarius_Engine/source/cpp_files/SceneRecovery.cpp",
+  "file": "/home/vodnik/Desktop/Aquarius_Engine/source/cpp_files/SceneRecovery.cpp",
+  "output": "CMakeFiles/ModelLoaderTests.dir/source/cpp_files/SceneRecovery.cpp.o"
+}
+]

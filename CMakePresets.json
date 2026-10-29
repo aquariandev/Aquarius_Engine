@@ -1,0 +1,29 @@
+{
+    "version": 3,
+    "configurePresets": [
+        {
+            "name": "glb-clean",
+            "displayName": "GLB clean build",
+            "generator": "Ninja",
+            "binaryDir": "${sourceDir}/build-glb-clean",
+            "cacheVariables": {
+                "BUILD_TESTING": "ON"
+            }
+        }
+    ],
+    "buildPresets": [
+        {
+            "name": "glb-clean",
+            "configurePreset": "glb-clean"
+        }
+    ],
+    "testPresets": [
+        {
+            "name": "glb-clean",
+            "configurePreset": "glb-clean",
+            "output": {
+                "outputOnFailure": true
+            }
+        }
+    ]
+}

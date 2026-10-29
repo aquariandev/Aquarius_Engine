@@ -1,0 +1,19 @@
+Start testing: Oct 25 19:56 CET
+----------------------------------------------------------
+1/3 Testing: ProjectTests
+1/3 Test: ProjectTests
+Command: "/home/vodnik/Desktop/Aquarius_Engine/build-glb-clean/ProjectTests"
+Directory: /home/vodnik/Desktop/Aquarius_Engine/build-glb-clean
+"ProjectTests" start time: Oct 25 19:56 CET
+Output:
+----------------------------------------------------------
+Project path tests passed.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ProjectTests" end time: Oct 25 19:56 CET
+"ProjectTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 25 19:56 CET
