@@ -3,3 +3,5 @@ build_linux/
 build_windows/
 cmake-build-*/
 .vscode/
+build-glb-clean/
+
